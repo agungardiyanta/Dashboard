@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="total_visitor">Total Visitor</string>
+    <string name="def_number_total">0</string>
+    <string name="visitor_enter">Visitor Enter</string>
+    <string name="def_num_enter">0</string>
+    <string name="visitor_exit">Visitor Exit</string>
+    <string name="def_num_exit">0</string>
+    <string name="capacity">Facility capacity</string>
+    <string name="input_capacity_facility">input capacity facility</string>
+    <string name="type">Type of Facility</string>
+    <string name="input_type_facility">Input type facility</string>
+    <string name="save">Save</string>
+    <string name="setting">Setting</string>
+    <string name="facility_type">Kategori dipilih</string>
+    <string name="msg_token_fmt">token</string>
+    <string-array name="facility_type">
+        <item>Input Category</item>
+        <item>Kategori 1 (30%)</item>
+        <item>Kategori 2 (35%)</item>
+        <item>Kategori 3 (40%)</item>
+        <item>Kategori 4 (50%)</item>
+    </string-array>
+</resources>

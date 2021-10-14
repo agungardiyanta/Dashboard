@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "17652507451",
+    "firebase_url": "https://test-python-8ba80.firebaseio.com",
+    "project_id": "test-python-8ba80",
+    "storage_bucket": "test-python-8ba80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17652507451:android:8ff1ae8a980c1d4eb3cd1e",
+        "android_client_info": {
+          "package_name": "com.atech.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17652507451-ro9p33sv34c1e68cq5v4njv9upmiubba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAFw-SlIVwpf6SQyP2nHenG_1t5XATxFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17652507451-ro9p33sv34c1e68cq5v4njv9upmiubba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
